@@ -1,0 +1,29 @@
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Web Server & Local Environment files
+.env
+.env.local
+.env.production
+.vscode/
+.idea/
+*.log
+
+# Large Mod Archives & Temporary Downloads
+# (Uncomment the lines below if you don't want to upload huge .zip or .rar files to Git)
+# *.zip
+# *.rar
+# *.7z
+
+# Node / Build tools (if you use tools like Vite, Webpack, or npm later)
+node_modules/
+dist/
+build/
+.cache/
